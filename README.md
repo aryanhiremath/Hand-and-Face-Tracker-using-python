@@ -35,23 +35,23 @@ This will open a window with your webcam feed where hand and face landmarks will
 ~README.md: Project documentation (this file).
 
 # Dependencies
-~Python 3.7+
-~MediaPipe
-~OpenCV
+~Python 3.7+ <br>
+~MediaPipe <br>
+~OpenCV <br>
 
 Install all dependencies using the command:
             pip install -r requirements.txt
 
 # Applications
-1. Gesture Control: Use hand gestures to control devices or applications.
-2. Augmented Reality: Enhance video feeds with overlays based on detected landmarks.
-3. Human-Computer Interaction: Enable intuitive interaction with systems using face or hand gestures.
-4. Behavior Analysis: Track facial expressions or hand movements for research purposes.
+1. Gesture Control: Use hand gestures to control devices or applications. <br>
+2. Augmented Reality: Enhance video feeds with overlays based on detected landmarks. <br>
+3. Human-Computer Interaction: Enable intuitive interaction with systems using face or hand gestures. <br>
+4. Behavior Analysis: Track facial expressions or hand movements for research purposes. <br>
 
 # Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. For major changes, please open an issue first to discuss your ideas.
 
 # Acknowledgments
-~ MediaPipe for providing the pre-trained models.
+~ MediaPipe for providing the pre-trained models. <br>
 ~ OpenCV for video processing capabilities.
 
