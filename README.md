@@ -19,4 +19,39 @@ Real-time hand and face tracking using Python with MediaPipe. Lightweight, effic
                For macOs/linux :-
                        python3 -m venv venv
                        source venv/bin/activate
+3. Install dependencies :-
+                       pip install -r requirements.txt
+
+
+# Usage 
+1. Run the Tracker:
+               python main.py
+This will open a window with your webcam feed where hand and face landmarks will be tracked in real time.
+2. Adjust Parameters: You can customize settings like detection confidence or frame resolution in the main.py file.
+
+# Files in the Repository
+~main.py: The main script to run the hand and face tracker.
+~requirements.txt: List of Python dependencies required for the project.
+~README.md: Project documentation (this file).
+
+# Dependencies
+~Python 3.7+
+~MediaPipe
+~OpenCV
+
+Install all dependencies using the command:
+            pip install -r requirements.txt
+
+# Applications
+1. Gesture Control: Use hand gestures to control devices or applications.
+2. Augmented Reality: Enhance video feeds with overlays based on detected landmarks.
+3. Human-Computer Interaction: Enable intuitive interaction with systems using face or hand gestures.
+4. Behavior Analysis: Track facial expressions or hand movements for research purposes.
+
+# Contributing
+Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request. For major changes, please open an issue first to discuss your ideas.
+
+# Acknowledgments
+~ MediaPipe for providing the pre-trained models.
+~ OpenCV for video processing capabilities.
 
