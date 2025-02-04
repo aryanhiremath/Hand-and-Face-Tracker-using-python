@@ -1,5 +1,5 @@
 # Hand-and-Face-Tracker-using-python
-Real-time hand and face tracking using Python with MediaPipe. Lightweight, efficient, and customizable for applications like gesture recognition and HCI
+Real-time hand and face tracking using Python with MediaPipe. Lightweight, efficient, and customizable for applications like gesture recognition and HCI.
 
 # Features
 1.Real-Time Performance: Processes live video feed for detecting and tracking hand and face landmarks with minimal latency.
